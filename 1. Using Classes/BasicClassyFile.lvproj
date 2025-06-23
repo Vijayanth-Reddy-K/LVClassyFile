@@ -12,8 +12,11 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Classes" Type="Folder">
 			<Item Name="File.lvclass" Type="LVClass" URL="../Classes/File/File.lvclass"/>
+			<Item Name="ROFile.lvclass" Type="LVClass" URL="../Classes/ROFile/ROFile.lvclass"/>
+			<Item Name="RWFile.lvclass" Type="LVClass" URL="../Classes/RWFile/RWFile.lvclass"/>
+			<Item Name="WOFile.lvclass" Type="LVClass" URL="../Classes/WOFile/WOFile.lvclass"/>
 		</Item>
-		<Item Name="ROFile.lvclass" Type="LVClass" URL="../Classes/ROFile/ROFile.lvclass"/>
+		<Item Name="ClassyFileOpen.vi" Type="VI" URL="../ClassyFileOpen.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
