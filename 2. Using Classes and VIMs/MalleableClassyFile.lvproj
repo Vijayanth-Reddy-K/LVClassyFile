@@ -18,9 +18,9 @@
 		</Item>
 		<Item Name="Public API" Type="Folder">
 			<Item Name="ClassyFileOpen.vi" Type="VI" URL="../ClassyFileOpen.vi"/>
-			<Item Name="CloseFile.vi" Type="VI" URL="../CloseFile.vi"/>
-			<Item Name="ReadFile.vi" Type="VI" URL="../ReadFile.vi"/>
-			<Item Name="WriteFile.vi" Type="VI" URL="../WriteFile.vi"/>
+			<Item Name="CloseFile.vim" Type="VI" URL="../CloseFile.vim"/>
+			<Item Name="ReadFile.vim" Type="VI" URL="../ReadFile.vim"/>
+			<Item Name="WriteFile.vim" Type="VI" URL="../WriteFile.vim"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
